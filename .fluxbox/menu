@@ -1,0 +1,11 @@
+[begin] (fluxbox)
+[exec] (Dolphin) {XDG_CURRENT_DESKTOP=kde dolphin}
+[exec] (Opera Developer) {opera-developer}
+[exec] (Firefox) {firefox}
+[exec] (Steam) {steam}
+[exec] (Konsole) {konsole}
+[exec] (Emacs) {emacs}
+[exec] (jEdit) {jedit}
+[exec] (Skype) {skype}
+[include] (/etc/X11/fluxbox/fluxbox-menu)
+[end]

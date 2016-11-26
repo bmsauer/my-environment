@@ -1,0 +1,189 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/brian/Documents/mysongs/mystuff/" . "hewasaslangphrase/")
+ ("/home/brian/Documents/mysongs/" . "mystuff/")
+ ("/home/brian/Code/acusticus/src/" . "tests/")
+ ("/home/brian/Documents/" . "mysongs/")
+ ("/home/brian/Code/acusticus/WEB-INF/" . "config/")
+ ("/home/brian/Code/acusticus/js/" . "custom/")
+ ("/home/brian/Code/acusticus/" . "src/")
+ ("/home/brian/Dropbox/brians_crap/futura/assets/" . "levels/")
+ ("/home/brian/Dropbox/brians_crap/futura/" . "assets/")
+ ("/home/brian/Dropbox/brians_crap/hyraxframework/" . "trunk/")
+ ("/home/brian/Dropbox/brians_crap/" . "hyraxframework/")
+ ("/home/brian/Code/futura/assets/" . "levels/")
+ ("/home/brian/Code/futura/" . "assets/")
+ ("/home/brian/Code/hyraxframework/" . "trunk/")
+ ("/var/www/dungeonsoffear/tools/" . "migrations/")
+ ("/home/brian/Code/" . "acusticus/")
+ ("/home/" . "brian/")
+ ("/home/brian/Dropbox/" . "brians_crap/")
+ ("/home/brian/" . "Code/")
+ ("/var/www/dungeonsoffear/dev/" . "rooms/")
+ ("/var/www/dungeonsoffear/css/" . "green-monochrome/")
+ ("/var/www/dungeonsoffear/" . "modules/")
+ ("/var/" . "www/")
+ ("/" . "var/")
+ ("/var/www/" . "dungeonsoffear/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/brian/Code/acusticus/src/"
+ "/home/brian/Code/acusticus/WEB-INF/classes/"
+ "/home/brian/"
+ "/home/brian/Code/hyraxdemo/"
+ "/home/brian/Code/hyraxframework/trunk/"
+ "/var/www/dungeonsoffear/modules/"
+ "/home/brian/Code/futura/"
+ "/home/brian/Code/wrestling/"
+ "/home/brian/Code/acusticus/WEB-INF/config/"
+ "/home/brian/Code/acusticus/"
+ "/home/brian/Code/acusticus/src/tests/"
+ "/var/www/music/"
+ "/home/brian/Documents/mysongs/mystuff/hewasaslangphrase/"
+ "/home/brian/Code/adagame/"
+ "/home/brian/Code/mineshaft/"
+ "/home/brian/Documents/mysongs/"
+ "/home/brian/Code/acusticus/WEB-INF/"
+ "/home/brian/Documents/"
+ "/home/brian/Code/acusticus/js/custom/"
+ "/var/www/dungeonsoffear/dev/rooms/"
+ "/home/brian/Code/acusticus/quickstart/"
+ "/var/www/dungeonsoffear/"
+ "/var/www/dungeonsoffear/tools/"
+ "/home/brian/Dropbox/brians_crap/hyraxframework/trunk/"
+ "/home/brian/Dropbox/brians_crap/futura/assets/levels/"
+ "/home/brian/Dropbox/brians_crap/futura/"
+ "/home/brian/Code/futura/assets/levels/"
+ "/var/www/dungeonsoffear/tools/migrations/"
+ "/var/www/dungeonsoffear/tests/"
+ "/var/www/dungeonsoffear/css/green-monochrome/"
+ "/var/www/dungeonsoffear/css/"
+ "/var/www/dungeonsoffear/css/castle/"
+ "/home/brian/Dropbox/brians_crap/"
+ "/var/www/tutorgen/"
+ "/var/www/dungeonsoffear/css/default/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "AcusticusAPIActionBean.java"
+ "RecordDaoRedis.java"
+ "Record.java"
+ "commons-logging.properties"
+ "log4j.properties"
+ "Settings.java"
+ ".emacs"
+ "demo.cpp"
+ "Drawable.cpp"
+ "Vector2.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/brian/Code/acusticus/src/" (22553 24287 539099 287000) "RecordDaoRedis.java~" "RecordDaoRedis.java" "RecordDao.java" "AcusticusAPIActionBean.java" "Record.java" "./" "Record.java~" "Settings.java" "AcusticusActionResolver.java~" "AcusticusAPIActionBean.java~" "RecordDao.java~" "tests/" "../" "Settings.java~" "AcusticusActionResolver.java" "RecordNotFoundException.java" "RecordNotFoundException.java~")
+
+ ("/home/brian/Code/acusticus/" (22553 20736 24700 829000) "LICENSE" ".git/" "css/" "dev/" "WEB-INF/" "js/" "ivy.xml" "README" "index.html" "reports/" "./" "build.xml~" "build.xml" "src/" "../" "acusticus.war" ".gitignore")
+
+ ("/home/brian/" (22559 40186 626036 430000) "Steam/" ".profile" ".audacity-data/" "spiral/" "Music/" "VirtualBox VMs/" ".netbeans/" "Public/" ".desktop" ".sqliterc" ".gitconfig" "GOG Games/" "Videos/" ".fonts/" ".sqlite_history" ".directory" ".gconf/" "Dropbox/" ".Skype/" "Downloads/" ".config/" ".steampid" ".Xmodmap" "mudlet-data/" ".kde/" ".pki/" ".xsession-errors" "Su1grsO.jpg" ".dropbox-dist/" ".macromedia/" ".gnupg/" ".emacs.d/" ".bash_history" ".composer/" ".cddb/" "dump.rdb" "./" "Pictures/" "Larian Studios/" ".adobe/" "Code/" ".dropbox/" "Desktop/" ".fonts.conf" ".subversion/" ".jedit/" ".ssh/" ".gnome2/" "5089/" ".fltk/" ".sudo_as_admin_successful" "Programs/" "phone/" ".gtkrc-2.0" ".dillo/" ".cache/" "tmp/" "Documents/" ".emacs" ".java/" ".python_history" ".emacs~" "Templates/" ".xsel.log" ".nano/" ".thumbnails/" ".ivy2/" ".wine/" ".steam/" ".bash_logout" ".dbus/" ".purple/" "../" ".Xauthority" ".mplayer/" ".fluxbox/" ".AMD/" "backup_2016.03.20-16.54.55_1.tar" ".mozilla/" ".pulse-cookie" ".fehbg" ".rediscli_history" ".gstreamer-0.10/" ".gnome2_private/" ".local/" "dungeonsoffear/" "ROMSandGames/" ".steampath" ".recently-used" ".bashrc")
+
+ ("/home/brian/.emacs.d/" (22550 31725 448440 91000) "elpa/" "auto-save-list/" "ido.last" "./" "lisp/" "../" "ido.last~")
+
+ ("/home/brian/Code/hyraxframework/trunk/" (22545 28023 405461 832000) "ScreenEffect.cpp" "ParticleEmitter.cpp" "Vector2.cpp" "AudioManager.h" "InputHandler.cpp" "Drawable.o" "SimplePhysicsObject.o" "ParticleEmitter.h" "Mouse.o" ".directory" "ScreenEffect.h" "GUI.cpp" "Particle.cpp" "GameState.o" "Drawable.cpp" "Timer.o" "General.h" "GUI.o" "HyraxFrameworkDependencies.h" "Vector2.h" "libhyraxframework.so" "Timer.h" "docs/" "./" "TextEmitter.cpp" "TextEmitter.h" "TextEmitter.o" "ScoreKeeper.cpp" "GUI.h" "AudioManager.cpp" "ParticleEmitter.o" "ScreenEffect.o" "General.o" "ScoreKeeper.o" "Timer.cpp" "Drawable.h" "SimplePhysicsObject.cpp" "Particle.o" "GameState.cpp" "ScoreKeeper.h" "Mouse.h" "../" "InputHandler.h" "Vector2.o" "makefile" "InputHandler.o" "Particle.h" "Mouse.cpp" "GameState.h" "General.cpp" "SimplePhysicsObject.h" "AudioManager.o")
+
+ ("/home/brian/Code/wrestling/" (22545 27404 312762 371000) "Wrestler.h~" "assets/" "makefile~" "Wrestler.cc~" "Wrestler.cc" "libhyraxframework.so" "Main.h~" "Main.h" "./" "Main.o" "Wrestler.o" "Main" "../" "Wrestler.h" "makefile" "Main.cc~" "Main.cc")
+
+ ("/home/brian/Dropbox/brians_crap/" (22542 49110 991310 85000) "army_fitness.txt" "resume3.odt" "brian_music.png" "forms/" "itsauke.pdf" "brian_id.png" "zuchinnichips.pdf" "ALBUM.txt" "db.zip" "research2.zip" "dist/" ".directory" "cover.pdf" "cover.svg" "punt_drills.pdf" "ASETLIST4.txt" "researchserverkey.ppk" "chocolateicecreamcake.txt" "meal_plan.txt" "cover.png" "ASONGLIST.txt" "presentation.odp" "retro_filter.pdf" "researchserverkey.pem" "punt.pdf" "tourist.txt" "command_line_demo_orig.zip" "ASETLIST5.txt" "config.inc.php" "A Mini Falafel Adventure/" "meteoria/" "WireframeTemplateFull.pdf" "invoice7.pdf" "./" "resume2.rtf" "save_data/" "logic.txt" "sellsheet.pdf" "ASONGLIST.txt~" "mycontract2.rtf" "IMSLP70119-PMLP141045-The_American_Musical_Miscellany_1798_1.pdf" "stanthonys.txt" "kickoff.pdf" "coneytickets.pdf" "vegas.txt" "Untitled.png" "bweeeee.sh" "pubdlcnt.png.png" "python_embed/" "stanthonyset.pdf" "whypython.pdf" "stand_up.txt" "thesispresentation.pdf" "ASETLIST6.txt" "setlist.txt" "gameplatform.png" "thatthingyoudo.txt" "Brooklyn_Brew_Shop_Chestnut_Brown_Ale_Instructions.pdf" "ASETLIST3.txt" "hewasaslangphrase.zip" "data.zip" "x18_owners_manual.pdf" "../" "songs.txt" "back.png" "FLATDB.db" "IMG00079-20130203-1400.jpg" "bot.png" "research2download.sh" "tax2016/" "resume3.pdf" "futura/" "hyraxframework/" "presentation.ppt" "thesis_draft.odt" "Rasterbation.pdf")
+
+ ("/home/brian/Code/acusticus/WEB-INF/classes/" (22508 39517 446268 737000) "log4j.properties" "commons-logging.properties" "StripesResources.properties" "net/" "./" "config.ini" "../")
+
+ ("/home/brian/Code/acusticus/WEB-INF/config/" (22508 39763 620434 931000) "config.env~" "config.tcl" "config.tcl~" "./" "config.ini" "config.env.template" "../" "config.env")
+
+ ("/home/brian/Code/" (22544 5112 271700 64000) "event/" "grinder-3.11/" "research-grinder.zip" "hyraxdemo/" "Skeleton-2.0.4/" "blitz/" "GrailsApplication1/" "ostrich/" "library_website/" "html5/" "philo/" "shocktheworld/" "alpha.zip" "./" "NetBeansProjects/" "adagame/" "pseudoterminal/" "misc/" "seneca/" "acusticus/" "furyfighter/" "command_line_demo_orig/" "mineshaft/" "data_mine/" "command_line_demo/" "redis-2.6.14/" "../" "tmp.php" "ucblogo-6.0/" "futura/" "hyraxframework/" "wrestling/" "take-command/")
+
+ ("/home/brian/Documents/" (22498 48914 482471 532000) "football" "bunburyticket.pdf" "2014_04_msw_usltr_format.doc.zip" "opti_755_techspecs.pdf" "resume3.odt" "schedulingproposal.odt" "test-Track_1-1.mid" "Up.png" "newschallenge2.odt" "starttrafficgen.sh" "drum.mid" "setlist.txt~" "startservers.sh" "newyearsguests.txt" "interview_homework.odt" "crossword/" "yy-chr.adf" "eula.9999.txt~" "yy-chr.dat" "newschallengebudget.txt" "bio.doc" "eula.9999.txt" "Down.png" "g_kit.dll" "kicking/" "yy-chr_e.txt" "book.html~" "Right.png" "carport-receipt.pdf" "SpriteSheet-Transparent.png" "researchserverkey.pem" "test-Track_2-2.mid" "onesheet.odt" "test-Track_2-1.mid" "drums.wav" "ireland/" "abstract.pdf" "yy-chr_j.txt" "resume3.rtf" "interview_homework.pdf" "Left.png" "resume_Brian_Sauer.pdf" "whypython.org" "./" "resume2.rtf" "mstcluster.bmp" "yy-chr.pal" "blackberry_back/" "id_dsa" "MumbleAutomaticCertificateBackup.p12" "boardingpass.pdf" "test.qtr" "LRUProxy/" "coeus.qtr" "2014 Sauer B Form 1040  Individual Tax Return_Records.pdf" "beatak-jquery-imageloader-3e616c1/" "Down-Right.png" "Untitled Song.wav" "readme.html" "advancedbodyweight.txt" "onepotchickenburritobowls.pdf" "ConceptStuff.png" "houseoftropicals.zip" "whypython.pdf" "whypython.org~" "mushroomfettuccine.pdf" "Vacation plans.odt" "gameplatform.png" "yy-chr.chr" "SpriteSheet-BG.png" "__MACOSX/" "clint_back/" "mysongs/" "Up-Left.png" "Side Blaster GFX/" "backpacking.pdf" "vegas" "book.html" "gameplatform.dia" "../" "townhousereceipt.pdf" "whypython.odp" "newschallenge.odt" "Srexhsp.dll" "Calibre Library/" "8-Directions-Animate.gif" "WebDesignDocuments/" "TLCL-13.07.pdf" "smana_10.txt" "toll.txt" "mushroom_soup" "GameDesignDocumentTemplate.odt" "newschallenge.pdf" "teach/" "school/" "Down-Left.png" "yy-chr.exe" "2014 Sauer B Form 1040  Individual Tax Return_Records (1).pdf")
+
+ ("/home/brian/Code/acusticus/src/tests/" (22498 3412 576066 382000) "TestRecordDaoRedis.java~" "TestRecordDaoRedis.java" "./" "../")
+
+ ("/var/www/music/" (22496 34911 731984 307000) "dearmidterms_notes.txt" "thedeal/" "eyesofgreen_rough.mp3" "dearmidterms_front.png" "music.jpg" "gasstationwine_rough.mp3" "index.html~" "princess_rough.mp3" "ThreeQuartersThere.zip" "redbricks/" "princess.txt" "rollinghome/" "ThreeQuartersTherecover.pdf" "ihaventseenthesunindays/" "ghosttown.JPG" "ghosttown.zip" "dearmidterms.zip" "utopia/" "index.html" "testground/" "autumnrain/" "./" "canidrinkthewater/" "escapist_rough.mp3" "footprints_rough.mp3" "mercy.mp3" "change/" "sasquatchandme/" "threedays/" "bossman_rough.mp3" "expectations_rough.mp3" "caseyjones/" "houseoftropicals.zip" "towelguy_rough.mp3" "everythingiwanttodo/" "../" "superglue.mp3" "lovemeanyway/" "thisoldworld/" "mercy_rough.mp3" "maggiethehoboastrobiologist/" "ThreeQuartersThereCover.jpg" "houseoftropicals_notes.txt")
+
+ ("/home/brian/Code/bigcgi/" (22497 62157 308709 308000) "./" "../")
+
+ ("/home/brian/Documents/mysongs/mystuff/hewasaslangphrase/" (22496 34864 59539 302000) "hewasaslangphrase_mp3/" "hewasaslangphrase_flac.zip" "./" "hewasaslangphrase_mp3.zip" "hewasaslangphrase_notes.txt" "../" "hewasaslangphrase_notes.txt~")
+
+ ("/home/brian/Documents/mysongs/mystuff/" (22495 18732 267975 669000) "whateverybodylikes.mp3" "34there/" "whateverybodylikes.txt" "hip hop stuff/" "sasquatchandme.mp3" "caulk.wav" "caulk.mp3" "sasquatchandme.aup" "ASETLIST4.txt~" "ASETLISTOPENMIC.txt" "ASETLIST2.txt" "badone.txt" "lovesongs.mp3" "whateverybodylikes.aup" "ALBUM.txt" ".directory" "ASETLIST4.txt" "gonnagetthere.txt" "astrobiologist.txt" "wonder.txt" "lovesong.txt" "fitofirony.txt" "ASONGLIST.txt" "hardtimes.txt" "bacon.txt" "beautifulpeople_data/" "angstycooksong.mp3" "thingsilearnedtoday" "chivalry.txt" "hewasaslangphrase/" "ASONGLIST.txt~" "beautifulpeople.mp3" "sasquatchOLD.mp3" "brown.txt" "houseoftropicals/" "towelguy_rough.aup" "gonnagetthereWIP.txt" "stalker.txt" "astrobiologist.aup" "ghosttown/" "shesawoman.aup" "dearmidterms/" "ASETLIST.txt" "stalkersteve.mp3" "work.txt" "caulk.txt" "astrobiologist.mp3" "towelguy_rough.mp3" "ALBUM.txt~" "towelguy.txt~" "beautifulpeople.aup" "sasquatch.txt" "footprints_rough_data/" "towelguy.txt" "shesawoman.mp3" "mykindofgirl.txt" "towelguy_rough_data/" "beautifulpeople.m4a" "sasquatch.mp3" "serenade.txt" "../" "./")
+
+ ("/home/brian/Code/adagame/" (22488 53747 889057 711000) "main.o" "map.adb" "main.ali" "./" "map.o" "main.adb" "map.ali" "../" "makefile" "map.ads" "main")
+
+ ("/home/brian/Documents/mysongs/" (22461 297 365589 17000) "dedstor/" "songs to learn.txt" "pepband/" ".site/" "compressor-Best-Settings.png" "venues.org~" "art/" "./" "venues.org" "combjellies/" "../" "mystuff/" "other/" "gverb-settings.txt")
+
+ ("/home/brian/Code/acusticus/WEB-INF/" (22451 47216 164669 134000) "classes/" "./" "lib/" "web.xml" "../" "config/")
+
+ ("/home/brian/Code/acusticus/js/custom/" (22394 45429 893581 439000) "main.js~" "./" "main.js" "../")
+
+ ("/home/brian/Code/acusticus/js/" (22343 44303 110422 353000) "custom/" "./" "lib/" "../")
+
+ ("/var/www/dungeonsoffear/tools/" (22368 49597 989412 972000) "reset.php" "run_tests.php~" "testdata.php" "createdb.php" "backup/" "migrations/" "updateserver.php~" "./" "run_tests.php" "../" "expiredgames.php~" "project_details.php" "deploy_ftp.php~" "updateserver.php" "expiredgames.php")
+
+ ("/var/www/dungeonsoffear/" (22373 36031 446851 485000) "vendor/" "logout.php" "README.txt" "css/" "cancel_game.php" "respond_invite.php" "dev/" "view_player.php" "images/" "environment.dat" "header.php" "modules/" "game.php" "room_test.php" "submit_decision.php" "composer.phar" "./" "composer.json" "index.php" "approve_room.php" "makedungeon.php" "validate_save_room.php" "invite_players.php" "room_delete.php" "LICENSE.txt" "tests/" "composer.lock" "footer.php" "templates.php" "db.sqlite3" ".svn/" "../" "login.php" "tools/" "rooms_dashboard.php" "signup.php" "edit_room.php")
+
+ ("/var/www/dungeonsoffear/modules/" (22368 49032 122053 235000) "dungeon.php" "player.php" "game_room.php" "./" "utils.php" "invite.php" "../" "game_player.php" "settings.php" "auth.php" "invite.php~" "settings.php~")
+
+ ("/home/brian/Code/acusticus/quickstart/" (22360 50369 431212 924000) "tmp.jsp" "./" "index.jsp" "tmp.jsp~" "../")
+
+ ("/home/brian/Dropbox/brians_crap/futura/" (22330 21956 892330 522000) "Level.h~" "Actor.h~" "assets/" "makefile~" "MAXROS.h~" "Level.cc~" "libhyraxframework.so" "MAXROS.h" "Actor.cc~" "Main.h~" "Main.h" "./" "Main.o" "Level.h" "Level.o" "Actor.h" "Actor.cc" "Main" "../" "makefile" "Level.cc" "Main.cc~" "Actor.o" "Main.cc")
+
+ ("/home/brian/Dropbox/brians_crap/hyraxframework/trunk/" (22330 24030 874218 743000) "ScreenEffect.cpp" "ParticleEmitter.cpp" "Vector2.cpp" "AudioManager.h" "InputHandler.cpp" "Drawable.o" "General.h~" "SimplePhysicsObject.o" "ParticleEmitter.h" "Mouse.o" ".directory" "ScreenEffect.h" "GUI.cpp" "Particle.cpp" "GameState.o" "Drawable.cpp" "Timer.o" "General.h" "GUI.o" "HyraxFrameworkDependencies.h" "Vector2.h" "libhyraxframework.so" "Timer.h" "docs/" "./" "TextEmitter.cpp" "TextEmitter.h" "TextEmitter.o" "ScoreKeeper.cpp" "GUI.h" "AudioManager.cpp" "ParticleEmitter.o" "ScreenEffect.o" "General.o" "ScoreKeeper.o" "Timer.cpp" "Drawable.h" "SimplePhysicsObject.cpp" "Particle.o" "GameState.cpp" "ScoreKeeper.h" "Mouse.h" "../" "InputHandler.h" "Vector2.o" "makefile" "InputHandler.o" "Particle.h" "Mouse.cpp" "GameState.h" "General.cpp~" "General.cpp" "SimplePhysicsObject.h" "AudioManager.o")
+
+ ("/var/www/dungeonsoffear/dev/" (22306 57409 496051 427000) "logo.svg" "./" "style/" "avatar.jpg" "rooms/" "../")
+
+ ("/home/brian/Dropbox/brians_crap/futura/assets/levels/" (22329 10923 416061 646000) "./" "antarctica1.dat~" "../" "antarctica1.dat")
+
+ ("/home/brian/Dropbox/brians_crap/futura/assets/" (22321 14849 0 0) "./" "backgrounds/" "levels/" "palette.ase" "fonts/" "../" "actors/")
+
+ ("/home/brian/Code/futura/assets/levels/" (22329 9317 168890 845000) "./" "antarctica1.dat~" "../" "antarctica1.dat")
+
+ ("/home/brian/Code/futura/" (22323 60759 42748 633000) "Level.h~" "Actor.h~" "assets/" "makefile~" "Level.cc~" "libhyraxframework.so" "Actor.cc~" "Main.h~" "Main.h" "./" "Main.o" "Level.h" "Level.o" "Actor.h" "Actor.cc" "Main" "../" "makefile" "Level.cc" "Main.cc~" "Actor.o" "Main.cc")
+
+ ("/home/brian/Dropbox/brians_crap/hyraxframework/" (22072 6449 0 0) "readme.textile" "./" "trunk/" "branches/" ".svn/" "../" "tags/")
+
+ ("/home/brian/Dropbox/" (22326 15772 425402 473000) "Public/" ".directory" "TaylorFootball/" "InspectionReport,withAttachmnets.pdf" "brians_crap/" "Fort Thomas Website/" "./" "__CHANGELOG.txt" ".dropbox" ".dropbox.cache/" "../" "Photos/" "lead.pdf")
+
+ ("/home/brian/Code/futura/assets/" (22321 14849 81666 549000) "./" "backgrounds/" "levels/" "palette.ase" "fonts/" "../" "actors/")
+
+ ("/home/brian/Code/furyfighter/" (21472 16622 0 0) "./" "furyfighter/" "../")
+
+ ("/home/brian/Code/hyraxdemo/" (22312 293 361122 582000) "demo.o" "research.zip" "libhyraxframework.so" "./" "framework_assets/" "demo.cpp" "../" "Demo" "makefile")
+
+ ("/var/www/dungeonsoffear/tools/migrations/" (22310 47707 766935 199000) "migrate_1.php" "migrate_1.php~" "./" "migrate_2.php~" "migrate_2.php" "../")
+
+ ("/home/brian/Code/hyraxframework/" (22072 6449 0 0) "readme.textile" "./" "trunk/" "branches/" ".svn/" "../" "tags/")
+
+ ("/home/brian/Code/mineshaft/" (22305 37795 875126 743000) "server.ali" "server.adb~" "./" "server.adb" "server" "server.o" "../" "example.ads")
+
+ ("/var/www/dungeonsoffear/css/green-monochrome/" (22286 64590 476813 25000) "palette.png" "main.css~" "main.css" "px10-webfont.woff2" "px10-webfont.svg" "px10-webfont.woff" "./" "specimen_files/" "px10-webfont.eot" "background.png" "../" "px10-webfont.ttf")
+
+ ("/var/www/dungeonsoffear/css/" (22286 60889 132571 334000) "green-monochrome/" "base.css" "./" "default/" "../" "base.css~")
+
+ ("/var/www/dungeonsoffear/css/castle/" (22284 28530 31716 458000) "torch.gif" "main.css~" "main.css" "./" "castle_wall.png" "../")
+
+ ("/var/www/dungeonsoffear/dev/rooms/" (22282 51197 614724 348000) "ladydragon.xml~" "treeface.xml" "ladydragon.xml" "treeface.xml~" "tatteredbridge.xml" "kingroom.xml~" "magicbook.jpg" "./" "magicbook.xml~" "kingpunchus.jpg" "kingroom.xml" "teamworkout.jpg" "ladydragon.jpg" "teamworkout.xml" "cathedralalter.xml~" "cathedralalter.xml" "tatteredbridge.xml~" "treeface.jpg" "teamworkout.xml~" "../" "magicbook.xml" "tatteredbridge.jpg" "cathedralalter.jpg")
+
+ ("/var/www/dungeonsoffear/tests/" (22273 27908 96499 983000) "inviteTest.php" "./" "inviteTest.php~" "playerTest.php" "../" "utilsTest.php~" "utilsTest.php" "playerTest.php~")
+
+ ("/var/www/tutorgen/" (21689 14925 0 0) ".git/" "img/" "dev/" "team.html" "index.html" "./" "style/" "README.md" "../" "approach.html" "projects.html" "demo.html")
+
+ ("/var/www/dungeonsoffear/css/default/" (22262 57544 439262 379000) "main.css~" "main.css" "./" "../")
+
+ ("/var/www/" (22230 27732 0 0) "tutorgen/" "research-summer2013/" "werkhaus/" "coeusiv/" "webdesign2/" "ftthomas/" "gentertainment.zip" "wedding/" "./" "gentertainment/" "templates/" "multiblog/" "dead.letter" "augusta/" "acusticus/" "sauertek/" "hyrax/" "ricknorton/" "../" "music/" "phpinfo.php" "dungeonsoffear/" "presskit/" "html/")
+
+ ("/var/" (22258 65288 414800 820000) "log/" "lock/" "spool/" "./" "lib/" "backups/" "crash/" "tmp/" "run/" "opt/" "metrics/" "cache/" "../" "mail/" "www/" "local/")
+
+ ("/home/" (22258 42429 26501 63000) ".directory" "./" "brian/" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
