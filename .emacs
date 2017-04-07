@@ -28,3 +28,6 @@
    '("melpa" . "http://melpa.org/packages/")
    t)
   (package-initialize))
+
+;; move backup directory
+(setq backup-directory-alist `(("." . "~/.emacs-saves")))
