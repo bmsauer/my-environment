@@ -2,6 +2,11 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/brian/code/bookus/templates/" . "macros/")
+ ("/home/brian/code/bookus/" . "templates/")
+ ("/home/brian/code/futura-game/" . "futura-game-code/")
+ ("/home/brian/code/bigcgi-repo/" . "serversetup/")
+ ("/home/brian/code/" . "bookus/")
  ("/home/brian/Documents/mysongs/mystuff/" . "hewasaslangphrase/")
  ("/home/brian/Documents/mysongs/" . "mystuff/")
  ("/home/brian/Code/acusticus/src/" . "tests/")
@@ -20,7 +25,7 @@
  ("/home/brian/Code/" . "acusticus/")
  ("/home/" . "brian/")
  ("/home/brian/Dropbox/" . "brians_crap/")
- ("/home/brian/" . "Code/")
+ ("/home/brian/" . "code/")
  ("/var/www/dungeonsoffear/dev/" . "rooms/")
  ("/var/www/dungeonsoffear/css/" . "green-monochrome/")
  ("/var/www/dungeonsoffear/" . "modules/")
@@ -31,6 +36,14 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/brian/code/bookus/templates/"
+ "/home/brian/code/bookus/"
+ "/home/brian/code/bookus/templates/macros/"
+ "/home/brian/code/bookus/migration/"
+ "/home/brian/code/futura-game/futura-game-code/"
+ "/home/brian/code/bigcgi-repo/"
+ "/home/brian/code/bigcgi-repo/serversetup/"
+ "/home/brian/.fluxbox/"
  "/home/brian/Code/acusticus/src/"
  "/home/brian/Code/acusticus/WEB-INF/classes/"
  "/home/brian/"
@@ -70,25 +83,47 @@
 
 ;; ----- ido-work-file-list -----
 (
- "AcusticusAPIActionBean.java"
- "RecordDaoRedis.java"
- "Record.java"
- "commons-logging.properties"
- "log4j.properties"
- "Settings.java"
- ".emacs"
- "demo.cpp"
- "Drawable.cpp"
- "Vector2.cpp"
+ "viewprofile.html"
+ "librarian.html"
+ "admin.html"
+ "main.html"
+ "reset_password.html"
+ "reset_request.html"
+ "changepassword.html"
+ "contact.html"
+ "notes.txt"
+ "picture.html"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/brian/code/bookus/templates/" (22720 43455 430647 0) "viewprofile.html" "user_readinglist.html" "user_profile.html" "skeleton.html" "reset_request.html" "reset_password.html" "profile.html" "picture.html" "patron_requests.html" "p_request.html" "navbar.html" "main.html" "macros/" "login.html" "librarian.html" "footer.html" "contact.html" "changepassword.html" "base.html" "admin.html" "../" "./")
+
+ ("/home/brian/code/bookus/" (22720 42789 575762 0) "notes.txt" "migrate.py" "library.db" "library.pyc" "upload_form.pyc" "passwordtype.pyc" "models.pyc" "database.pyc" "publisher.pyc" "config.pyc" "env/" "env.sh" "env.sh.template" "upload_form.py" "tests.py" "templates/" "static/" "shell.py" "requirements.txt" "publisher.py" "passwordtype.py" "models.py" "migration/" "library.py" "database.py" "config.py" "README.md" "LICENSE" ".travis.yml" ".gitignore" ".git/" "../" "./")
+
+ ("/home/brian/code/bookus/templates/macros/" (22711 21134 571530 0) "tablesorter.html" "social.html" "icons.html" "core.html" "../" "./")
+
+ ("/home/brian/.fluxbox/" (22720 36959 743073 0) "startup~" "log" "startup" "menu~" "lastwallpaper" "slitlist" "windowmenu" "overlay" "apps" "menu" "keys" "init" "../" "./")
+
+ ("/home/brian/code/bookus/migration/" (22711 28617 348431 0) "03_patron_contact.py~" "02_create_passwordreset.py~" "03_patron_contact.pyc" "02_create_passwordreset.pyc" "02_create_passwordreset.py" "01_hashpasswords.py" "__init__.py" "01_hashpasswords.pyc" "__init__.pyc" "03_patron_contact.py" "../" "./")
+
+ ("/home/brian/" (22720 36955 172984 0) ".serverauth.904" ".gitconfig" ".bash_history" ".sqlite_history" ".serverauth.845-c" ".windows-serial" ".wine/" ".gens/" "ROMS/" ".python_history" "brian.aup" "brian_data/" "jordon.aup" "jordon_data/" "opera.core" ".dillo/" ".fltk/" "pictures/" ".fr/" ".gstreamer-0.10/" ".opera/" ".audacity-data/" ".ssh/" ".subversion/" "Downloads/" ".gps/" ".emacs" ".Xmodmap" "code/" ".wpa_cli_history" ".emacs.d/" ".config/" ".local/" "Desktop/" ".dbus/" ".cache/" ".mozilla/" ".nv/" ".Xauthority" "fluxbox.core" "firefox.core" ".fluxbox/" ".rnd" ".history" "ldconfig.core" ".login_conf" ".mailrc" ".profile" ".cshrc" ".mail_aliases" ".shrc" ".rhosts" ".login" "../" "./")
+
+ ("/home/brian/code/bigcgi-repo/serversetup/" (22683 46127 716477 0) "bigcgi_mongodb.conf" "install.tcl" "provision.sh" "bigcgi_apache.conf" "../" "./")
+
+ ("/home/brian/code/bigcgi-repo/" (22683 46127 719557 0) "static/" "script/" "db.py" "env.sh" "tools/" "toolrunner.py" "settings.py" "env.template" "views/" "serversetup/" "requirements.txt" "app.py" "README" "LICENSE" ".gitignore" ".git/" "../" "./")
+
+ ("/home/brian/code/futura-game/futura-game-code/" (22661 23155 79102 0) "util.ads" "server.ads" "server.adb" "commandparser.ads" "player.adb" "README.org" "player.ads" "makefile" "main.adb" "client.ads" "map.ads" "client.adb" "map.adb" ".svn/" "../" "./")
+
+ ("/home/brian/code/" (22711 21127 790129 0) "bookus/" "bigcgi-repo/" "futura-game/" "my-environment/" "../" "./")
+
+ ("/home/brian/code/futura-game/" (22587 18053 0 0) "futura-game-code/" "../" "./")
+
+ ("/home/brian/code/my-environment/" (22585 53083 0 0) ".gititnore" ".fluxbox/" ".emacs.d/" ".emacs" ".Xmodmap" ".git/" "../" "./")
+
  ("/home/brian/Code/acusticus/src/" (22553 24287 539099 287000) "RecordDaoRedis.java~" "RecordDaoRedis.java" "RecordDao.java" "AcusticusAPIActionBean.java" "Record.java" "./" "Record.java~" "Settings.java" "AcusticusActionResolver.java~" "AcusticusAPIActionBean.java~" "RecordDao.java~" "tests/" "../" "Settings.java~" "AcusticusActionResolver.java" "RecordNotFoundException.java" "RecordNotFoundException.java~")
 
  ("/home/brian/Code/acusticus/" (22553 20736 24700 829000) "LICENSE" ".git/" "css/" "dev/" "WEB-INF/" "js/" "ivy.xml" "README" "index.html" "reports/" "./" "build.xml~" "build.xml" "src/" "../" "acusticus.war" ".gitignore")
-
- ("/home/brian/" (22559 40186 626036 430000) "Steam/" ".profile" ".audacity-data/" "spiral/" "Music/" "VirtualBox VMs/" ".netbeans/" "Public/" ".desktop" ".sqliterc" ".gitconfig" "GOG Games/" "Videos/" ".fonts/" ".sqlite_history" ".directory" ".gconf/" "Dropbox/" ".Skype/" "Downloads/" ".config/" ".steampid" ".Xmodmap" "mudlet-data/" ".kde/" ".pki/" ".xsession-errors" "Su1grsO.jpg" ".dropbox-dist/" ".macromedia/" ".gnupg/" ".emacs.d/" ".bash_history" ".composer/" ".cddb/" "dump.rdb" "./" "Pictures/" "Larian Studios/" ".adobe/" "Code/" ".dropbox/" "Desktop/" ".fonts.conf" ".subversion/" ".jedit/" ".ssh/" ".gnome2/" "5089/" ".fltk/" ".sudo_as_admin_successful" "Programs/" "phone/" ".gtkrc-2.0" ".dillo/" ".cache/" "tmp/" "Documents/" ".emacs" ".java/" ".python_history" ".emacs~" "Templates/" ".xsel.log" ".nano/" ".thumbnails/" ".ivy2/" ".wine/" ".steam/" ".bash_logout" ".dbus/" ".purple/" "../" ".Xauthority" ".mplayer/" ".fluxbox/" ".AMD/" "backup_2016.03.20-16.54.55_1.tar" ".mozilla/" ".pulse-cookie" ".fehbg" ".rediscli_history" ".gstreamer-0.10/" ".gnome2_private/" ".local/" "dungeonsoffear/" "ROMSandGames/" ".steampath" ".recently-used" ".bashrc")
 
  ("/home/brian/.emacs.d/" (22550 31725 448440 91000) "elpa/" "auto-save-list/" "ido.last" "./" "lisp/" "../" "ido.last~")
 
